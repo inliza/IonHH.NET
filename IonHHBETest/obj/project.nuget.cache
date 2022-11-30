@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8jP+D9RUBKbUhP1LwJAoqnkwCR6+QTGEOf7F303HbhCZ8erSaGc9fiuv8uoGNDsa9Zm0+3GzQ3zzAA8IV0AfrA==",
+  "dgSpecHash": "OLbEusZiNdxAwOpD/6ju3IzAi+sBbFJpTYCD2ico9FiboGpE64xZyFR6Rc42dE0dtTn9RMdQg2CmIrhQINc+JA==",
   "success": true,
-  "projectFilePath": "C:\\repos\\test\\IonHHBETest\\IonHHBETest\\IonHHBETest.csproj",
+  "projectFilePath": "C:\\repos\\test\\IonHH.NET\\IonHHBETest\\IonHHBETest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elizardo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elizardo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

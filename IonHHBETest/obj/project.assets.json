@@ -6327,11 +6327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\test\\IonHHBETest\\IonHHBETest\\IonHHBETest.csproj",
+      "projectUniqueName": "C:\\repos\\test\\IonHH.NET\\IonHHBETest\\IonHHBETest.csproj",
       "projectName": "IonHHBETest",
-      "projectPath": "C:\\repos\\test\\IonHHBETest\\IonHHBETest\\IonHHBETest.csproj",
+      "projectPath": "C:\\repos\\test\\IonHH.NET\\IonHHBETest\\IonHHBETest.csproj",
       "packagesPath": "C:\\Users\\elizardo\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\test\\IonHHBETest\\IonHHBETest\\obj\\",
+      "outputPath": "C:\\repos\\test\\IonHH.NET\\IonHHBETest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elizardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
